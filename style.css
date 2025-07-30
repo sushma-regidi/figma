@@ -1,0 +1,112 @@
+*{
+     background-color: #292B32; 
+    margin:2%;
+    padding:0%;
+   
+}
+p{
+    color:#ffffff;
+}
+.card>p{
+    color:#ffffff;
+    display:inline;
+   
+}
+.card{
+    width:237px;
+    height:511px;
+     background-color: #3B3E47;
+}
+
+.card>img{
+    width:217px;
+    height:385.31px;
+}
+.specific-events{
+     display:flex; 
+    justify-content: space-between; 
+    width:217px;
+    height:54px;
+    background-color: #3B3E47; 
+}
+
+.total-event {
+    width:70px;
+    height:31px;
+     background-color: #3B3E47;
+}
+.sport{
+    width:57px;
+    height:31px;
+     background-color: #3B3E47;
+}
+.container{
+    width:1241px;
+    height:673px;
+    display:flex;
+    justify-content: center;
+    gap:1px;
+    background-color: #3B3E47;
+    
+}
+
+
+
+.main-container{
+width:1085.75px;
+height:799px;
+display:flex;
+}
+.first>h1{
+   width:505px;
+   height:52px; 
+   text-align: center;
+   color:#ffffff;
+   left:500px;
+}
+.first>h5{
+    text-align: center;
+    color:#ffffff;
+}
+.cards{
+    width:257px;
+    height:624px;
+    position: relative;
+    border: 5px solid #818A97;
+       
+}
+.one>img{
+    width:227px;
+    height:401px;  
+}
+button{
+    color:#ffffff;
+     padding:5px;
+    margin:3px; 
+    font-size: medium;
+    /* position: absolute;
+    top:82%;
+    left:20% */
+    
+}
+h4{
+    color:white;
+    text-align: center;
+}
+.cards>p{
+    text-align: center;
+}
+
+.dashed-line{
+    border:none;
+    border-top:3px dashed  ;
+    color:#818A97;
+    
+    
+}
+.two>img{
+    width:227px;
+    height:401px;  
+}
+
+
